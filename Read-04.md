@@ -1,9 +1,9 @@
 # JavaScript
 *it can be used to make websites more interactive by*
 
-*1 aceess content elemnts , attributr, or text from Html page*
+*1 access content elements , attributer, or text from Html page*
 
-*2 modify content add elemnts attributes and text to the page*
+*2 modify content add elements attributes and text to the page*
 
 *3 program rules : you can specify a set of steps for browser to follow. that allows to access or change the content of a page* 
 
@@ -18,7 +18,7 @@ a ***script*** *is a series of instructions that a computer can follow to achiev
 
 *1 define the goal*
 
-*2 dsesign the script*
+*2 design the script*
 
 *3 code each step*
 
@@ -35,18 +35,18 @@ there are two types of expressions*
 
 *arithmetic operators*
 
-*addition | + | adds one value to another*
+addition | + | adds one value to another
  
-*subtraction | _ |subtracts on value from another*
+substraction | _ |subtracts on value from another
 
-*division | / | divides two values*
+division | / | divides two values
 
-*multipication | * | multipy two values using an asterisk
-increment | ++ | adds one to the current number*
+multipication | * | multipy two values using an asterisk
+increment | ++ | adds one to the current number
 
-*decrement | _ _ | substracts one from current number*
+decrement | _ _ | substracts one from current number
 
-*modules | % | devides two values and returns the rmainder*
+modules | % | devides two values and returns the rmainder
 
 ***scripts*** *used to organize the codes and let you group series of statements to perform a specific task*
 
