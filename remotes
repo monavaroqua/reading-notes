@@ -1,6 +1,0 @@
-# Remotes 
-
-# **seeing my remotes**
-*we can use the Git remote ***command***, to view the short names.*
-
-*and using ***git remote -v***, to view all the remote URLs next to their corresponding short names*
