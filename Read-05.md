@@ -23,7 +23,7 @@
 
 *&& logical and*
 
-* || logical for*
+ || logical for
 
 *! logical not*
 
