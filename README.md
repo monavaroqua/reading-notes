@@ -13,6 +13,7 @@
 |Read-05 |[Operators and Loops](https://monavaroqua.github.io/reading-notes-1/Read-05)|
 
 ### welcome to my repo here you will find my reading notes for 2o1
+
 |Class number | link|
 |---|---|
-|read-01 | [Introductory HTML and JavaScript]()
+|read-01 | [Introductory HTML and JavaScript](https://monavaroqua.github.io/reading-notes-1/Read-06)|
