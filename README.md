@@ -16,7 +16,7 @@
 
 |Class number | Link|
 |---|---|
-|Read-01 | [Introductory HTML and JavaScript](https://monavaroqua.github.io/reading-notes-1/Read-06)|
+|Read-01 | [Introductory HTML and JavaScript](https://monavaroqua.github.io/reading-notes-1/read-06)|
 |Read-02a |[read07]()|
 |Read-02b |[Read08]()|
 |Read-03 |[read08](https:/)|
