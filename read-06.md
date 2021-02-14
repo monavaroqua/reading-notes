@@ -65,16 +65,16 @@ scrolling : it indicates whether the iframe should have scrollbars or not.
 structure is very important in helping readers to understand msgs you are trying to convey and navigate aroung the documents
 
 ***html structure***
-<html>
-<h1>main heading</h>
-<p> text could be introduction</p1>
-<h2>sub heading </h2>
-<p>
-<h2>another sub heading</h2>
-</body>
-</html>
+< html >
+< h1 >main heading < /h >
+< p > text could be introduction< /p1>
+< h2 >sub heading </h2>
+< p >
+< h2 >another sub heading< /h2 >
+< /body >
+< /html >
 
-***html elemnts***
+***html elements***
 
 characters that inside angled brackets made of two tags
 
@@ -84,11 +84,11 @@ elements are made of two parts name and value separated by equal sign
 
 **the value** is the informatioon or setting for the attribute placed in double quotes
 
-**<body>** everything inside it is shown in the main browser window
+**< body >** everything inside it is shown in the main browser window
 
-**<head>** contains information about the page
+**< head >** contains information about the page
 
-**<title>** shown in the top of the browser
+**< title >** shown in the top of the browser
 
 ***process and design***
 who is the site for?it is very important to understand who your target audience is
