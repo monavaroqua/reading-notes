@@ -36,7 +36,7 @@ inline elements : to continue on the same line as their neighbouring elements.
 
 < span > : its like an inline equivalent of the
 
-element. It is used to either:
-Contain a section of text
+element. It is used to either: Contain a section of text
 Contain a number of inline elements
 scrolling : it indicates whether the iframe should have scrollbars or not.
+

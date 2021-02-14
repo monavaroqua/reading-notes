@@ -11,3 +11,8 @@
 |Read-03 |[Structure web pages with HTML](https://monavaroqua.github.io/reading-notes-1/Read-03)|
 |Read-04 |[Programming with JavaScript](https://monavaroqua.github.io/reading-notes-1/Read-04)|
 |Read-05 |[Operators and Loops](https://monavaroqua.github.io/reading-notes-1/Read-05)|
+
+### welcome to my repo here you will find my reading notes for 2o1
+|Class number | link|
+|---|---|
+|read-01 | [Introductory HTML and JavaScript]()
