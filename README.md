@@ -19,6 +19,6 @@
 |Read-01 | [Introductory HTML and JavaScript](https://monavaroqua.github.io/reading-notes-1/read-06)|
 |Read-02 |[HTML Text, CSS Introduction, and Basic JavaScript](https://monavaroqua.github.io/reading-notes/Read-07)|
 |Read-03 |[HTML Lists & css box model](https://monavaroqua.github.io/reading-notes/Read-08)|
-|Read-04 |[read08](https:/)|
+|Read-04 |[HTML Images; CSS Color & Text](https://monavaroqua.github.io/reading-notes/read-09)|
 |Read-05 |[read09](https:/)|
 |Read-06 |[read10](https:/)|
