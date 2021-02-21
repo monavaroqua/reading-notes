@@ -20,5 +20,5 @@
 |Read-02 |[HTML Text, CSS Introduction, and Basic JavaScript](https://monavaroqua.github.io/reading-notes/Read-07)|
 |Read-03 |[HTML Lists & css box model](https://monavaroqua.github.io/reading-notes/Read-08)|
 |Read-04 |[HTML Images; CSS Color & Text](https://monavaroqua.github.io/reading-notes/read-09)|
-|Read-05 |[read09](https:/)|
+|Read-05 |[JS Object Literals; The DOM](https://monavaroqua.github.io/reading-notes/Read-10/)|
 |Read-06 |[read10](https:/)|
